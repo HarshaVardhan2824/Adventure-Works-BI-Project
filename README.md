@@ -62,8 +62,8 @@ Features:
 ![Power BI Dashboard 2](Images/powerbi_dashboard_2.png)
 
 ### Excel Dashboards
-![Excel Dashboard 1](Images/excel_dashboard_1.png)
-![Excel Dashboard 2](Images/excel_dashboard_2.png)
+![Excel Dashboard 1](Images/excel_dashboard_1.jpeg)
+![Excel Dashboard 2](Images/excel_dashboard_2.jpeg)
 
 ### Tableau Dashboards
 ![Tableau Dashboard 1](Images/tableau_dashboard_1.png)
