@@ -57,14 +57,17 @@ Features:
 
 ## Dashboard Preview
 
-### Power BI Dashboard
-![Power BI Dashboard](Images/powerbi_dashboard.png)
+### Power BI Dashboards
+![Power BI Dashboard 1](Images/powerbi_dashboard_1.png)
+![Power BI Dashboard 2](Images/powerbi_dashboard_2.png)
 
-### Excel Dashboard
-![Excel Dashboard](Images/excel_dashboard.png)
+### Excel Dashboards
+![Excel Dashboard 1](Images/excel_dashboard_1.png)
+![Excel Dashboard 2](Images/excel_dashboard_2.png)
 
-### Tableau Dashboard
-![Tableau Dashboard](Images/tableau_dashboard.png)
+### Tableau Dashboards
+![Tableau Dashboard 1](Images/tableau_dashboard_1.png)
+![Tableau Dashboard 2](Images/tableau_dashboard_2.png)
 
 ## Author
 Harsha Vardhan Raju Karapa  
