@@ -69,6 +69,10 @@ Features:
 ![Tableau Dashboard 1](Images/tableau_dashboard_1.png)
 ![Tableau Dashboard 2](Images/tableau_dashboard_2.png)
 
+### SQL Analysis Results
+![SQL Result 1](Images/SQL_1.png)
+![SQL Result 2](Images/SQL_2.png)
+
 ## Author
 Harsha Vardhan Raju Karapa  
 Aspiring Data Analyst
